@@ -1,6 +1,6 @@
 # Self-hosting an open-source n8n alternative
 
-Kortix is the open-source AI Operating System, and this repository is a working guide to running it as a self-hosted n8n alternative. It answers four questions in order: what you actually own when the setup lives on your machines, how Kortix and n8n compare point by point, when moving off a fixed workflow engine makes sense, and the questions teams ask before they switch.
+Kortix is the open-source CompanyOS, and this repository is a working guide to running it as a self-hosted n8n alternative. It answers four questions in order: what you actually own when the setup lives on your machines, how Kortix and n8n compare point by point, when moving off a fixed workflow engine makes sense, and the questions teams ask before they switch.
 
 Every page here ends at the same shape of work: an agent on its own cloud computer opens a change request, a person reads the diff, and the change lands. The companion site is [the open-source n8n alternative](https://n8n-alternative.com/).
 
