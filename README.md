@@ -43,7 +43,7 @@ cd company-ops
 kortix ship
 ```
 
-`kortix init` scaffolds a repo whose `kortix.yaml` declares `kortix_version: 2` and runs pi, an open-source (MIT) agent harness. `kortix init` and `kortix ship` create the cloud project on first run; run `kortix ship` again any time to sync the manifest. To run the whole instance on your own hardware instead, follow the [self-hosting guide](docs/self-hosting.md): the stack is one Docker Compose deployment, and self-host is free.
+`kortix init` scaffolds a repo whose `kortix.yaml` carries no version line, because the manifest format has no version, and runs pi, an open-source (MIT) agent harness. `kortix init` and `kortix ship` create the cloud project on first run; run `kortix ship` again any time to sync the manifest. To run the whole instance on your own hardware instead, follow the [self-hosting guide](docs/self-hosting.md): the stack is one Docker Compose deployment, and self-host is free.
 
 ## Why Kortix
 
